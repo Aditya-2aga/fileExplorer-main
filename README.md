@@ -20,6 +20,24 @@ React DnD or Dnd Kit for drag-and-drop
 Optional: Zustand or Context API for state management
 Icon Libraries like `react-icons` or `lucide-react`
 
+Setup Instructions
+Clone the repository git clone https://github.com/your-username/file-explorer-app.git cd file-explorer-app
+
+Install dependencies
+npm install
+or
+yarn
+
+Start the development server
+npm run dev
+or
+yarn dev
+
+Open in your browser http://localhost:5173
+
+You’re all set! Explore the file explorer, drag & drop nodes, and manage your tree.
+
+
 Given Project Description:-
 
 Developer Assignment – File/Folder Tree UI
